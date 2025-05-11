@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Use environment variable, fallback to local MongoDB if not set
-const mongooseURL = process.env.MONGODB_URL_LOCAL || 'mongodb://127.0.0.1:27017/voting';
+const mongooseURL = process.env.MONGODB_URL_GLOBAL ;
 
 // Connect to MongoDB
 mongoose.connect(mongooseURL)
