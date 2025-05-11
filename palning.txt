@@ -1,0 +1,21 @@
+User Registration: Allow users to create an account as either an employer or a job seeker.
+
+User Login: Enable users to log in to their accounts.
+
+Browse Jobs: Display a list of available job listings.
+
+Search Jobs: Allow users to search for jobs by title, location, or category.
+
+View Job Details: Show detailed information about a job listing.
+
+Post a Job: Enable employers to post job listings, including job title, description, location, and requirements.
+
+Manage Job Listings: Allow employers to edit or delete their job listings.
+
+View Applications: Enable employers to view and manage job applications.
+
+View Profile: Allow users to view and update their profile information.
+
+List for a job : Allow user to apply for a job 
+
+Applications: Allow user to See the number of people Applied for a particular job
